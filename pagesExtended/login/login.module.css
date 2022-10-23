@@ -1,0 +1,13 @@
+.login-card {
+  border: 1px solid white;
+  padding: 1rem;
+  text-align: center;
+  width: fit-content;
+  width: 200px;
+  height: 150px;
+}
+
+.cursed {
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;
+}

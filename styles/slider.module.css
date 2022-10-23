@@ -1,0 +1,22 @@
+.container {
+  position: relative;
+  width: 220px;
+}
+
+.track {
+  height: 8px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+.slider {
+  position: absolute;
+  border-radius: 50%;
+  height: 20px;
+  width: 20px;
+  background-color: rgb(0, 0, 255);
+  cursor: pointer;
+}
